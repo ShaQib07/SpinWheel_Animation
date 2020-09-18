@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="todo">TODO</string>
+    <string name="spin">SPIN</string>
+    <string name="points"><b>100</b>pts</string>
+    <string name="change_animation">Change Animation</string>
+</resources>
